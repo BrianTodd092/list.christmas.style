@@ -1,0 +1,11 @@
+
+ul.a {
+       list-style-type: square;
+}
+
+
+
+ul.b {
+       list-style-image:url('xmashat.png');
+
+}
